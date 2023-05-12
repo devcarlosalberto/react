@@ -1,0 +1,28 @@
+.buttons {
+    display: flex;
+    gap: 12px;
+
+    margin-top: 18px;
+}
+
+.btn {
+    color: white;
+    font-weight: bold;
+
+    padding: 12px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn:hover {
+    filter: brightness(0.8);
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.bg-red {
+    background-color: red;
+}
